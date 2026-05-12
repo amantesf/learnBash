@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 name='Amanuel'
 age=18
 place='Washington, D.C.'
